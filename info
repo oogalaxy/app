@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Your App ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.</p>
+    
+    <h2>Information We Collect</h2>
+    <p>We may collect the following information:</p>
+    <ul>
+        <li>Location Data</li>
+        <li>Network Status</li>
+        <li>Internet Usage</li>
+        <li>Phone Call Information</li>
+    </ul>
+    
+    <h2>How We Use Your Information</h2>
+    <p>We use the information we collect to:</p>
+    <ul>
+        <li>Provide and maintain our service</li>
+        <li>Improve user experience</li>
+        <li>Communicate with you</li>
+        <li>Show specific location-based services</li>
+        <li>Ensure the app functions correctly with network status</li>
+        <li>Enable phone call functionality</li>
+    </ul>
+    
+    <h2>Sharing Your Information</h2>
+    <p>We do not share your information with third parties except as described in this policy.</p>
+    
+    <h2>Security of Your Information</h2>
+    <p>We use administrative, technical, and physical security measures to help protect your personal information.</p>
+    
+    <h2>Your Rights</h2>
+    <p>You have the right to access, update, or delete the information we have on you. If you wish to exercise these rights, please contact us through the contact information provided below.</p>
+    
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at: [Your Contact Information]</p>
+</body>
+</html>
